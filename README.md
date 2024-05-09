@@ -32,7 +32,15 @@ I love to create fictional worlds and stories for people to enjoy.
 
 ## Technologies
 
-
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/cpp.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/cs.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/html.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/java.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/opengl.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/sfml.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/ue5.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/unity.png"/></code>
+<code><img height="64" src="https://github.com/boyan1742/boyan1742/blob/master/img/wgpu.png"/></code>
 
 ## Contacts
 
