@@ -18,12 +18,20 @@ I love to create fictional worlds and stories for people to enjoy.
   * 📃 Data Structures and Algorithms in C++
   * 🎮 Architecture of Game Engines with Unreal Engine 5
   * ☕ Modern Java Technologies (MJT)
+  * ⚙️ Design Patterns in C++/C#/Java
 
 ## (Some of) My Projects
 
 * C/C++
   * [Super Hero Game](https://github.com/boyan1742/super-hero-game) -- a course work for the OOP course in Sofia University.
   * [Anda](https://github.com/boyan1742/anda) -- a generator-like C project for generics. Includes also predefined generic collections.
+* Java
+  * [MJT](https://github.com/boyan1742/mjt-2023-2024) -- all laboratory assignments, homeworks and the course project for the Modern Java Technologies course in Sofia University.
+  * [Discord Connections Mod](https://github.com/boyan1742/discord-connection-mod) -- a Forge mod for Minecraft for integrating various game mechanics and discord Bots.
+* C#
+  * [Design Patterns Project 1](https://github.com/boyan1742/OOP_DesignPatterns_Project1) - project assignment for the Design Patterns course in Sofia University.
+  * [Design Patterns Project 2](https://github.com/boyan1742/OOP_DesignPatterns_Project2) - project assignment for the Design Patterns course in Sofia University.
+  * [Design Patterns Project 3](https://github.com/boyan1742/OOP_DesignPatterns_Project3) - project assignment for the Design Patterns course in Sofia University.
 * UE
   * [UE5 Inventory System](https://github.com/boyan1742/UE5InventorySystem) -- a UE5 project that has my implementation of an inventory system with item pickup and dropping.
 * PS2
