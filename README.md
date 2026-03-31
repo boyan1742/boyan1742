@@ -2,6 +2,7 @@
 
 ## About me
 
+Currently working @ Progress, Sofia.
 I love programming and solving problems. 
 Gaming is my passion. 
 I have taught myself programming in different languages, including different frameworks for desktop application development and game development. 
@@ -59,4 +60,4 @@ I love to create fictional worlds and stories for people to enjoy.
 
 ## Profile stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyan1742&layout=compact" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boyan1742&theme=default)
